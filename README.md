@@ -67,5 +67,7 @@ Compare the input and processed images.
 This helps users understand the convolution process and how image filters modify individual pixels.
 
 👨‍💻 Author
+
 Sriram
+
 The purpose of developing this project is to make fundamental image-processing concepts easier to understand through visual and interactive demonstrations rather than only studying mathematical formulas.
